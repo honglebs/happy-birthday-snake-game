@@ -196,7 +196,7 @@ while True:
             wn.bgcolor("white")
             pen.clear()
             pen.color("green")
-            pen.write ("Score : 420! Spark it up birthday bitch!".format (
+            pen.write ("Score : Spark it up birthday girl!".format (
                 score, high_score), align ="center", font=("candara", 26, "bold"))
             new_segment.color("green") 
             head.color("green")
